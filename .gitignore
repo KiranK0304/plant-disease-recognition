@@ -1,0 +1,8 @@
+# Ignore model and dataset files (adjust as needed)
+*.h5
+*.keras
+*.tflite
+*.csv
+*.json
+dataset/
+__pycache__/
